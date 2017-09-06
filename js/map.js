@@ -176,3 +176,7 @@ function initMap() {
 
 
 }
+
+function mapErrorHandler() {
+    window.alert("There was a problem with Google Maps, Please try again later");
+}
